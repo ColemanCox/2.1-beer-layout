@@ -1,14 +1,12 @@
 
-
-
-
-
  h2
 {
   font-size:30px;
 color:orange;
-  margin:auto;
+
     font-family:cursive;
+
+
 
 }
 
@@ -16,7 +14,7 @@ color:orange;
 .col p span{
   box-shadow:0 0 35px 0;
   border-radius:10px;
-  background-color:yellow;
+  background-color:gold;
   text-align:center;
 
 }
@@ -39,5 +37,5 @@ color:orange;
 img {
 
    display:inline-block;
-   height: 250px
+   height: 250px;
 }
