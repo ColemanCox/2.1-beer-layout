@@ -1,41 +1,39 @@
+@import 'reset';
+$fa-font-path:        "//netdna.bootstrapcdn.com/font-awesome/4.3.0/fonts";
 
- h2
-{
+@import 'font-awesome';
+@import 'bourbon';
+@import 'neat';
+
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+li{
+
+  display:inline;
+  position:relative;
+
+
+}
+
+.price {
   font-size:30px;
-color:orange;
-
-    font-family:cursive;
-
+  color: red;
 
 
 }
 
+.words{
+  font-size:13px;
 
-.col p span{
-  box-shadow:0 0 35px 0;
-  border-radius:10px;
-  background-color:gold;
-  text-align:center;
+}
+
+button{
 
 }
 
 
-
-
-
-
- h2  span{
-
-  border-radius:10px;
-
-   float:right;
-   background-color:blue;
-
-}
-
-
-img {
-
-   display:inline-block;
-   height: 250px;
-}

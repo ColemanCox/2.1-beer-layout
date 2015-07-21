@@ -1,0 +1,23 @@
+{
+  "name": "2.1-beer-layout",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ColemanCox/2.1-beer-layout.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ColemanCox/2.1-beer-layout/issues"
+  },
+  "homepage": "https://github.com/ColemanCox/2.1-beer-layout#readme",
+  "description": "",
+  "dependencies": {
+    "broccoli": "^0.16.4",
+    "broccoli-merge-trees": "^0.2.2"
+  }
+}
